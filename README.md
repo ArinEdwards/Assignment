@@ -8,6 +8,7 @@ Student Number: S3788793
 Email Address: ArinCasheEdwards@gmail.com
 
 Hello! My full name is Arin Cashe Edwards. I am 21 years old and have lived in Victoria all my life. I am Australian and have always enjoyed the world of Information technology since I was very young. One interesting fact about myself is that I had long hair since I was about 5 years old and didn’t cut it until December of last year. It feels very different and not surprisingly a lot lighter and easier to maintain.
+
 Here is also a recent photo of me (all the way to the right) with friends and family -
 ![52504050_10157104182121214_4554955384552423424_o](https://user-images.githubusercontent.com/48429846/54112478-5bc5ea80-443a-11e9-9e17-657991f9287b.jpg)
 
