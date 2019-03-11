@@ -74,8 +74,11 @@ The Product should be evolutionary, bringing together a two for one type of deal
 The type of software that could be used would be android, lots of smartphones and tablets use this kind of software and it has become more refined over the last few years, this would also benefit the smart phone side and not having to start from scratch with making it’s own software. Making this projects hardware would require a large team of engineers as it is using the latest gen technology a lot in which hasn’t been done before. Probably using custom made GPU/CPU’s to fit everything into its small form.
 
 #### Skills Required:
+
 -Current android software (modified)
+
 -Custom hardware (Gpu/Cpu motherboards).
+
 It would be extremely hard to build this from the ground up, having to make sure the android type of software would be able to recognize such things like cartridges and be able to develop current gen graphics that use a display that can fold and be used as a smart phone. This type of project would require some top tier engineers that know about the new types of technologies and having them implement custom made hardware.
 
 #### Outcome:
