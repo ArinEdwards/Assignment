@@ -1,5 +1,7 @@
 ## Hello and Welcome!
 
+### Personal Information
+
 Student Number: S3788793
 
 Email Address: ArinCasheEdwards@gmail.com
