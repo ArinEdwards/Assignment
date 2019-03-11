@@ -40,6 +40,11 @@ I know there can be a few places that take trainee’s on board within little to
 
 ## Peronsal Profile
 
+![Screenshot (14)](https://user-images.githubusercontent.com/48429846/54112165-a7c45f80-4439-11e9-95ac-c2ebf69284ae.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/48429846/54112170-ab57e680-4439-11e9-84f3-ec21ae37915d.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/48429846/54112177-ad21aa00-4439-11e9-854f-5bedc14cdb9b.png)
+![p5 test](https://user-images.githubusercontent.com/48429846/54112178-ae52d700-4439-11e9-9aae-4e5eca0a9e28.PNG)
+
 #### What do the results of these tests mean for you?
 I found the results rather interesting in some parts such as in the Myers Briggs test I came out an Entertainer (ESFP-A) which kind of mean I’m a really out there kind of person which can seem like me in some aspects but I guess it depends more so on the situation I am in. I thought it captured though how I am a little bit more likely to go with my decision rather than others but can be introverted in some way more than extraverted. I thought the learning style captured me perfectly though, I do prefer to learn hands on (Tactile 45%) as I think ‘if I do it myself as practice, get someone to check if it’s right then I can keep doing it that way’. Secondly, I got visual (30%) which wasn’t too far away from auditory (25%) which is also correct, I would rather watch someone else do it then just listen to them doing it. On the final test I did which was the big five personality test (BFPT) I found it interesting that both extravert from the Myers Briggs test and BFPT were similar. Through looking through the results from all the tests I did find it rather interesting that some would correlate into one another thinking to myself that maybe I am more extraverted or open than I originally thought I would be.
 
@@ -49,10 +54,6 @@ Being more open and out there I believe that I will be able to communicate a lot
 #### How should you take this into account when forming a team?
 I think it’s crucial in a sense that you should be finding likeminded people in a group project or even when you are in a work space. This can help avoid conflict within the work space and if we are similar in some personality respects we may be more understanding of each other. If I have someone in my group that is a tactical learner, the same I as am it would be easier for me to help them and vice versa. Also, people that can bring energy and be fun in a group rather than just straight out could also benefit the team in being more energetic.
 
-![Screenshot (14)](https://user-images.githubusercontent.com/48429846/54112165-a7c45f80-4439-11e9-95ac-c2ebf69284ae.png)
-![Screenshot (15)](https://user-images.githubusercontent.com/48429846/54112170-ab57e680-4439-11e9-84f3-ec21ae37915d.png)
-![Screenshot (17)](https://user-images.githubusercontent.com/48429846/54112177-ad21aa00-4439-11e9-854f-5bedc14cdb9b.png)
-![p5 test](https://user-images.githubusercontent.com/48429846/54112178-ae52d700-4439-11e9-9aae-4e5eca0a9e28.PNG)
 [Additonal Test Taken](https://www.truity.com/test/big-five-personality-test)
 
 ### Jekyll Themes
