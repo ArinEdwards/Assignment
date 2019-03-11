@@ -1,6 +1,6 @@
-## Hello and Welcome!
+# Hello and Welcome!
 
-### Personal Information
+## Personal Information
 
 Student Number: S3788793
 
@@ -8,7 +8,7 @@ Email Address: ArinCasheEdwards@gmail.com
 
 Hello! My full name is Arin Cashe Edwards. I am 21 years old and have lived in Victoria all my life. I am Australian and have always enjoyed the world of Information technology since I was very young. One interesting fact about myself is that I had long hair since I was about 5 years old and didn’t cut it until December of last year. It feels very different and not surprisingly a lot lighter and easier to maintain.
 
-### Interest In Information Technology
+## Interest In Information Technology
 
 I think my Interest in Information technology (I.T) would have started at a young age. I’ve always been fascinated on the way technology works and how far we’ve come in such a short time from the first computer to be built that could be the size of a room to having one right next to your desk or even having one on the go/portable I think it rather amazing. I don’t have any formal/professional I.T experience but have always enjoyed how we can implement it through our daily life.
 
@@ -16,17 +16,16 @@ The reason I came to RMIT was because I have always heard a high reputation abou
 
 I hope to get a vast variety of different subjects to learn in which I will be able to determine what job I would want to do in the future. I would like to learn mostly anything within the field of IT but maybe learn a little bit deeper into what a security analyst does maybe even an app developer as I find these fields rather interesting. I want to learn a different range of subjects that I pick out and stick by throughout this course.
 
+## Ideal Job (Right now)
 
+I find this type of job appealing as it keeps companies safe. There will also be something new going on everyday which will keep me wanting to go that extra step further. I won’t feel like I’m doing the same job everyday as new types of security will be added throughout the years and I can keep up to date with it. Being able to implement security networks while having attention to detail for certain business is something that I feel right now suits me. I feel as this role is looking for someone that has had many years of experience being a security analyst while also being able to work in a large team which is something I could work towards.
 
-# Header 1
-## Header 2
-### Header 3
+This type of Job would be looking for someone that has experience within the Information technology field or a computer science degree. Besides having the qualification though, you should have some experience within that kind of work place and knowledge of Victorian Protective Data Security Standards to work with like minded people and have communication skills throughout working there.
 
-- Bulleted
-- List
+I currently don’t have any experience that I know of within this type of field but hope to eventually be able to get some whether it be throughout my course or eventually applying for graduate jobs after completing my studies.
 
-1. Numbered
-2. List
+I know there can be a few places that take trainee’s on board within little to no empierce and train them from the ground up. However, I hope to finish my course, hopefully get some experience within the field while doing it, maybe afterwards apply to some graduate courses and possibly study further in the field. Maybe go into a computer science course as well, then eventually when I have got all the skills that I feel would be required for a job such as that, apply for it.
+
 
 **Bold** and _Italic_ and `Code` text
 
