@@ -37,9 +37,19 @@ I know there can be a few places that take trainee’s on board within little to
 ![I T Assignment](https://user-images.githubusercontent.com/48429846/54110587-db9d8600-4435-11e9-9526-42f7d0621e97.png)
 
 [Job Website](https://www.seek.com.au/job/38332143?searchrequesttoken=1d047faf-4aa3-4d8b-a744-c1bfd1359af9&type=standard)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Peronsal Profile
+
+#### What do the results of these tests mean for you?
+I found the results rather interesting in some parts such as in the Myers Briggs test I came out an Entertainer (ESFP-A) which kind of mean I’m a really out there kind of person which can seem like me in some aspects but I guess it depends more so on the situation I am in. I thought it captured though how I am a little bit more likely to go with my decision rather than others but can be introverted in some way more than extraverted. I thought the learning style captured me perfectly though, I do prefer to learn hands on (Tactile 45%) as I think ‘if I do it myself as practice, get someone to check if it’s right then I can keep doing it that way’. Secondly, I got visual (30%) which wasn’t too far away from auditory (25%) which is also correct, I would rather watch someone else do it then just listen to them doing it. On the final test I did which was the big five personality test (BFPT) I found it interesting that both extravert from the Myers Briggs test and BFPT were similar. Through looking through the results from all the tests I did find it rather interesting that some would correlate into one another thinking to myself that maybe I am more extraverted or open than I originally thought I would be.
+
+#### How do you think these results may influence your behaviour in a team?
+Being more open and out there I believe that I will be able to communicate a lot more within my team. I hope I’m not too assertive within a group as I believe that everyone should have their fair say in their own decisions but hope to get like minded people in the group and lots of energy for the people I form a group with.
+
+#### How should you take this into account when forming a team?
+I think it’s crucial in a sense that you should be finding likeminded people in a group project or even when you are in a work space. This can help avoid conflict within the work space and if we are similar in some personality respects we may be more understanding of each other. If I have someone in my group that is a tactical learner, the same I as am it would be easier for me to help them and vice versa. Also, people that can bring energy and be fun in a group rather than just straight out could also benefit the team in being more energetic.
+
+[Additonal Test Taken](https://www.truity.com/personality-test/11697/test-results/7241233)
 
 ### Jekyll Themes
 
