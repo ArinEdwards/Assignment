@@ -49,7 +49,7 @@ Being more open and out there I believe that I will be able to communicate a lot
 #### How should you take this into account when forming a team?
 I think it’s crucial in a sense that you should be finding likeminded people in a group project or even when you are in a work space. This can help avoid conflict within the work space and if we are similar in some personality respects we may be more understanding of each other. If I have someone in my group that is a tactical learner, the same I as am it would be easier for me to help them and vice versa. Also, people that can bring energy and be fun in a group rather than just straight out could also benefit the team in being more energetic.
 
-[Additonal Test Taken](https://www.truity.com/personality-test/11697/test-results/7241233)
+[Additonal Test Taken](https://www.truity.com/test/big-five-personality-test)
 
 ### Jekyll Themes
 
