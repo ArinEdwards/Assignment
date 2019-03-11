@@ -36,7 +36,7 @@ I know there can be a few places that take trainee’s on board within little to
 
 ![I T Assignment](https://user-images.githubusercontent.com/48429846/54110587-db9d8600-4435-11e9-9526-42f7d0621e97.png)
 
-[Link](https://www.seek.com.au/job/38332143?searchrequesttoken=1d047faf-4aa3-4d8b-a744-c1bfd1359af9&type=standard)
+[Lin](https://www.seek.com.au/job/38332143?searchrequesttoken=1d047faf-4aa3-4d8b-a744-c1bfd1359af9&type=standard)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
