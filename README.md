@@ -56,10 +56,28 @@ I think it’s crucial in a sense that you should be finding likeminded people i
 
 [Additonal Test Taken](https://www.truity.com/test/big-five-personality-test)
 
+## Project Idea
+
+#### Overview:
+With the Emerging technology that has come out lately and smart phones coming out with graphics that people could only dream of years ago, I think it would be a innovative idea to make a mobile phone that doubles as a gaming console w/ a dock that can connect to a T.V also with foldable technology so it’s easy to carry around on the go. This would be an interesting idea as there have been smart phones that are gaming phones and can play desktop games like ‘player unknown battlegrounds’ or ‘Fortnite’ (or course on a lower graphical setting) but also Nintendo switch that is a portable device can play games like these in a small form factor with relatively cutting edge graphics being able to put foldable technology would be doubling two pieces of technology into one.
+
+#### Motivation:
+Always had my here and there for games and who hasn’t. smart phone technology has come a long way in the last 10 years (we practically have graphics better than PlayStation 2’s on a tiny, thin form factor; I think that is rather amazing) and wouldn’t be surprised if this idea implemented somewhere in the near future. With a lot of people using their smart phones to play some app store/play store games on the go, it would be evolutionary to see current gen games on an even more portable device plus having a dock to connect to a television so it will be just like playing on a gaming console such as a PlayStation or Xbox when at home.
+
+#### Detailed Description:
+The Product should be evolutionary, bringing together a two for one type of deal. A good place to start would be the features of this product. Using a USB type C dock would allow the device to charge at home and let the dock have a HDMI port that connects to the television. Controllers will be able to slip onto the side of the smart phone, gaming product but also easily come off to give it the sleek incognito look of being a mobile phone. This device should have a 7 to 8-inch touch screen display, but while it is also foldable, should be able to fit into your pocket, with roughly a 4 to 5-inch touch screen display on the front of the device as well. The front side of this device should more be treated at the smart phone side and when it is unfolded you get a bigger screen and with the controllers able to properly fit on the sides. Trying to limit the ports on this device due to the small form factor of it will not come with a headphone jack build inside it but instead an adapter, Bluetooth technology will mostly be used for anything that is paired eg: headphones, controller, mic. Ethernet cables will go into the devices dock, but it will also have wireless for if you wanted to play a game when you’re in the city. Using the best on the current market for CPU/GPU’s that can be bought at this time will be used inside this device, it should have anywhere between 8-12gb of ram, roughly a 4000-4500mAh lithium ion battery, a portable fan that can be put in the centre back of the device for intense current gen gaming (this way it can help limit the fans needed on the inside which will take up extra room, putting the large fans on the outside while keeping the smaller fans on the inside would allow for a larger battery, being able to put more ‘smart phone’ phone features on the inside as it is a two for one. This device will come with the ordinary smart phone features such as calling, texting, mp3 player, etc. the way it would play current gen games is with cartridges as these are smaller and easier to fit in than adding a cd/Blu-ray player it will also come with expandable storage so you don’t have to delete data off to play different games using microSD cards but will also come with different optional installed storage such as getting a 128gb model.
+
+#### Tools and Technologies:
+The type of software that could be used would be android, lots of smartphones and tablets use this kind of software and it has become more refined over the last few years, this would also benefit the smart phone side and not having to start from scratch with making it’s own software. Making this projects hardware would require a large team of engineers as it is using the latest gen technology a lot in which hasn’t been done before. Probably using custom made GPU/CPU’s to fit everything into its small form.
+
+#### Skills Required:
+-Current android software (modified)
+-Custom hardware (Gpu/Cpu motherboards).
+It would be extremely hard to build this from the ground up, having to make sure the android type of software would be able to recognize such things like cartridges and be able to develop current gen graphics that use a display that can fold and be used as a smart phone. This type of project would require some top tier engineers that know about the new types of technologies and having them implement custom made hardware.
+
+#### Outcome:
+If the project was successful there would be a whole lot more people gaming on the go. It would be so much easier to have one unified device then just a several different ones. If you’re ever with yours friends and want to play a game, it’s easily accessible right within your smart gaming phone. Most people take their phone everywhere they go, having a phone with a little bit extra entertainment plus a standard console when connected to your dock as home would probably increase the amount of game sales due to portability. Lots of people might take the train to work and scroll on social media, now you will be able to play a certain game you like on your daily commute.
+
+
+
 ### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArinEdwards/Test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
