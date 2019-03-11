@@ -1,8 +1,10 @@
 ## Hello and Welcome!
 
-You can use the [editor on GitHub](https://github.com/ArinEdwards/Test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Student Number: S3788793
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email Address: ArinCasheEdwards@gmail.com
+
+Hello! My full name is Arin Cashe Edwards. I am 21 years old and have lived in Victoria all my life, I am Australian and have always enjoyed the world of Information technology since I was very young. One interesting fact about myself is that I had long hair since I was about 5 years old and didn’t cut it until December of last year. It feels very different and not surprisingly a lot lighter and easier to maintain.
 
 ### Markdown
 
