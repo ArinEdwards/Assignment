@@ -10,10 +10,13 @@ Hello! My full name is Arin Cashe Edwards. I am 21 years old and have lived in V
 
 ## Interest In Information Technology
 
+#### What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).
 I think my Interest in Information technology (I.T) would have started at a young age. I’ve always been fascinated on the way technology works and how far we’ve come in such a short time from the first computer to be built that could be the size of a room to having one right next to your desk or even having one on the go/portable I think it rather amazing. I don’t have any formal/professional I.T experience but have always enjoyed how we can implement it through our daily life.
 
+#### Why did you choose to come to RMIT?
 The reason I came to RMIT was because I have always heard a high reputation about it. To me it seems like one of the best within the state, even Australia. Having a bachelor’s course into Information technology I think would be beneficial for many students including myself to show the ins and outs of it. I’ve had many of my friends/family attended RMIT and believe it has furthered them on in their study and helped them to find the career they want.
 
+#### What do you expect to learn during your studies?
 I hope to get a vast variety of different subjects to learn in which I will be able to determine what job I would want to do in the future. I would like to learn mostly anything within the field of IT but maybe learn a little bit deeper into what a security analyst does maybe even an app developer as I find these fields rather interesting. I want to learn a different range of subjects that I pick out and stick by throughout this course.
 
 ## Ideal Job (Right now)
