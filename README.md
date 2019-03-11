@@ -8,12 +8,15 @@ Email Address: ArinCasheEdwards@gmail.com
 
 Hello! My full name is Arin Cashe Edwards. I am 21 years old and have lived in Victoria all my life. I am Australian and have always enjoyed the world of Information technology since I was very young. One interesting fact about myself is that I had long hair since I was about 5 years old and didn’t cut it until December of last year. It feels very different and not surprisingly a lot lighter and easier to maintain.
 
-### Markdown
+### Interest In Information Technology
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I think my Interest in Information technology (I.T) would have started at a young age. I’ve always been fascinated on the way technology works and how far we’ve come in such a short time from the first computer to be built that could be the size of a room to having one right next to your desk or even having one on the go/portable I think it rather amazing. I don’t have any formal/professional I.T experience but have always enjoyed how we can implement it through our daily life.
 
-```markdown
-Syntax highlighted code block
+The reason I came to RMIT was because I have always heard a high reputation about it. To me it seems like one of the best within the state, even Australia. Having a bachelor’s course into Information technology I think would be beneficial for many students including myself to show the ins and outs of it. I’ve had many of my friends/family attended RMIT and believe it has furthered them on in their study and helped them to find the career they want.
+
+I hope to get a vast variety of different subjects to learn in which I will be able to determine what job I would want to do in the future. I would like to learn mostly anything within the field of IT but maybe learn a little bit deeper into what a security analyst does maybe even an app developer as I find these fields rather interesting. I want to learn a different range of subjects that I pick out and stick by throughout this course.
+
+
 
 # Header 1
 ## Header 2
