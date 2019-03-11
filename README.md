@@ -34,7 +34,7 @@ I currently don’t have any experience that I know of within this type of field
 #### A plan describing how you will obtain the skills, qualifications and experience required for the position, building on those you have now. This need not be greatly detailed, (and will probably change significantly over time anyway) but try to be as specific as you can.
 I know there can be a few places that take trainee’s on board within little to no empierce and train them from the ground up. However, I hope to finish my course, hopefully get some experience within the field while doing it, maybe afterwards apply to some graduate courses and possibly study further in the field. Maybe go into a computer science course as well, then eventually when I have got all the skills that I feel would be required for a job such as that, apply for it.
 
-![I T Assignment](https://user-images.githubusercontent.com/48429846/54110587-db9d8600-4435-11e9-9526-42f7d0621e97.png, (https://www.seek.com.au/job/38332143?searchrequesttoken=1d047faf-4aa3-4d8b-a744-c1bfd1359af9&type=standard)
+![I T Assignment](https://user-images.githubusercontent.com/48429846/54110587-db9d8600-4435-11e9-9526-42f7d0621e97.png)[Link](https://www.seek.com.au/job/38332143?searchrequesttoken=1d047faf-4aa3-4d8b-a744-c1bfd1359af9&type=standard)
 
 [Link](https://www.seek.com.au/job/38332143?searchrequesttoken=1d047faf-4aa3-4d8b-a744-c1bfd1359af9&type=standard)
 ```
